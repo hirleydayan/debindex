@@ -1,6 +1,6 @@
 # Debian Index Analyser
 
-Basic helper tool for extracting statistics from [Debian PackageIndex](https://wiki.debian.org/DebianRepository/Format?action=show&redirect=RepositoryFormat#A.22Contents.22_indices) files. 
+Basic helper tool for extracting statistics from [Debian Package Index](https://wiki.debian.org/DebianRepository/Format?action=show&redirect=RepositoryFormat#A.22Contents.22_indices) files. 
 
 ## How to use the tool
 
